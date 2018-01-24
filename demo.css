@@ -1,0 +1,92 @@
+body {
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/06/Blue-gradient-Wallpaper-1080p.png");
+margin: 0px;
+}
+.header{
+    background-image: url("./img/TwitterBanner.png");
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Twitter{
+    height: 25px;
+    width: 25px;
+}
+.SignupContainer{
+    background-color: none;
+    width: 30%;
+    margin: 280px;
+    margin-top:100px;
+    text-align: center;
+    padding: 100px;
+
+}
+
+.SignupContainer input{
+    background: transparent;
+    border: none;
+    border-bottom: solid 1px grey;
+    
+}
+.body-container{
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.label-input input {
+    display: inline-block;
+    width: 210px;
+    padding: 4px;
+    margin: 0;
+    outline: 0;
+    background-color: #fff;
+    border: 1px solid #2196f3;
+    border-radius: 3px;
+    position: center;
+
+}
+#Full-Name{
+    
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#Email-Phone{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px;
+    width: 100%;
+
+    
+}
+
+#Password{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px;
+    width: 100%;  
+}
+.Signup-Button{
+    background-color: #2196f3;
+    width: 175px;
+    height: 30px;
+    margin: auto;
+    position: relative;
+    border-radius: 25px;
+}
+.h1{
+    font-size: 50px;
+}
+ .H1{
+    width: 100%; 
+    padding: 0 15px;
+ }
